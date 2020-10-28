@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - :globe_with_meridians: I'm from: India
-- :office: I work as: Visual developer
+- :office: I work as: Visual developer designing UIs in Figma and translating them to code ✨
 - :computer: I work with this tech: HTML, CSS, JS
-- 🌱 I’m currently learning react with [KCD Learning Club](https://kentcdodds.com/discord/)
+- 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
 - :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, Strong believer of learn by building
 
 <!--
