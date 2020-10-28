@@ -3,6 +3,7 @@
 - :globe_with_meridians: I'm from: India
 - :office: I work as: Visual developer
 - :computer: I work with this tech: HTML, CSS, JS
+- 🌱 I’m currently learning react with [KCD Learning Club](https://kentcdodds.com/discord/)
 - :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, Strong believer of learn by building
 
 <!--
