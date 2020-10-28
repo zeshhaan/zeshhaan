@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-:globe_with_meridians: I'm from: India
-:office: I work as: Visual developer
-:computer: I work with this tech: HTML, CSS, JS
-:apple: I snack on: Tea
-:zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, Strong believer of learn by building
+- :globe_with_meridians: I'm from: India
+- :office: I work as: Visual developer
+- :computer: I work with this tech: HTML, CSS, JS
+- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, Strong believer of learn by building
 
 <!--
 **zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
