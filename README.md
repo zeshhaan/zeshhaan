@@ -4,7 +4,7 @@
 - :office: I work as: Visual developer designing UIs in Figma and translating them Webflow website ✨
 - :computer: I work with this tech: HTML, CSS, JS
 - 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
-- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, Strong believer of learn by building
+- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building
 
 <!--
 **zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
