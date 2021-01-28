@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :globe_with_meridians: I'm from: India
-- :office: I work as: Visual developer designing UIs in Figma and translating them Webflow website ✨
+- :office: I work as: Visual developer designing UIs in Figma and translating them into a Webflow website ✨
 - :computer: I work with this tech: HTML, CSS, JS
 - 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
 - :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building
