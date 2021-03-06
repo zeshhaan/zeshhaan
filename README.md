@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- :globe_with_meridians: I work remotely
-- :office: I work as: Visual developer designing UIs in Figma and translating them into a Webflow website ✨
+- :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. ✨
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
 - 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
 - :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building
+- 🤔 I’m looking for help with a NextJS project mapping data from a JSON file. Still figuring it out 😇
 - 📜 Checkout my [portfolio](http://zeshhaan.webflow.io/) to learn more about me
 
 <!--
@@ -13,6 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+- :globe_with_meridians:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
