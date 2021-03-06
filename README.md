@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :globe_with_meridians: I'm from: India
+- :globe_with_meridians: I work remotely
 - :office: I work as: Visual developer designing UIs in Figma and translating them into a Webflow website ✨
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
 - 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
