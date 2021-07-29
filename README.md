@@ -4,7 +4,7 @@
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
 - 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
 - :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building
-- 📜 Checkout my [portfolio](http://zeshhaan.webflow.io/) to learn more about me
+- 📜 Checkout my [portfolio](http://zeshhaan.webflow.io/) to learn more
 
 <!--
 **zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
