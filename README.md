@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-- :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. ✨
+- :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. [Checkout my works](http://zeshhaan.webflow.io/) ✨
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
-- 🌱 I’m currently learning: React with [KCD Learning Club](https://kentcdodds.com/discord/)
-- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building
-- 📜 Checkout my [portfolio](http://zeshhaan.webflow.io/) to learn more
+- 🔭 I’m currently interning with [@ClearTax](https://github.com/ClearTax)
+- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building.
+- ⚡ Fun fact: I am yearning to learn F# code.
+- 📜 Checkout my [portfolio](https://read.cv/zeeshan) to learn more
 
 <!--
 **zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
