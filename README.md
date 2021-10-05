@@ -2,8 +2,8 @@
 
 - :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. [Checkout my works](http://zeshhaan.webflow.io/) ✨
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
-- 🔭 I’m currently interning with [@ClearTax](https://github.com/ClearTax)
-- :zany_face: I really enjoy: designing UIs, helping my friends to learn code and learning myself code, strong believer of learn by building.
+- 🔭 In the past i have interned with with [@ClearTax](https://github.com/ClearTax)
+- 🤝 I've also always been excited about sharing what I know with others.
 - 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS alongside building a software for my fathers repair business.
 
 <!--
