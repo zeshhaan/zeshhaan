@@ -2,9 +2,10 @@
 
 - :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. [Checkout my works](http://zeshhaan.webflow.io/) ✨
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
+- 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS.
+- 🤟 I enjoy coding in VueJS and am looking for an opportunity where I can get to work on it.
 - 🔭 In the past i have interned with with [@ClearTax](https://github.com/ClearTax)
 - 🤝 I've also always been excited about sharing what I know with others.
-- 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS alongside building a software for my fathers repair business.
 
 <!--
 **zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
