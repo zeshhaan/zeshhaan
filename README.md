@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- :globe_with_meridians: I work remotely as a Visual developer, crafting conversion focussed user interfaces. [Checkout my works](http://zeshhaan.webflow.io/) ✨
+> I work remotely as a Freelance Visual developer, crafting conversion focussed user interfaces using Webflow and bit of code. [Checkout my Webflow projects](http://zeshhaan.webflow.io/) ✨
+
 - :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F#
 - 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS.
 - 🤟 I enjoy coding in VueJS and am looking for an opportunity where I can get to work on it.
