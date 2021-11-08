@@ -2,7 +2,7 @@
 
 I work with the awesome [@foodmarkethub](https://foodmarkethub.com/) folks as a Software Engineer to build next generation of F&B business 🍱
 
-- :computer: I work with this tech: HTML, CSS, JS but I'm a huge fan of F# ⚡️
+- :computer: I work with this tech: HTML, SCSS, VueJS but I'm a huge fan of F# ⚡️
 - 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS 💚
 - 🔭 I have an unconditional love for CSS, performant UIs and also building great User Experience 🌃
 - 🤝 I've also always been excited about sharing what I know with others 💎
