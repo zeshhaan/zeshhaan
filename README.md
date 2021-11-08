@@ -3,7 +3,7 @@
 I work with the awesome [@foodmarkethub](https://foodmarkethub.com/) folks as a Software Engineer to build next generation of F&B business 🍱
 
 - :computer: I work with this tech: HTML, SCSS, VueJS 💚
-- 🔭 I have an unconditional love for CSS, performant UIs and also building great User Experience 🌃
+- 🔭 I have an unconditional love for CSS, performant UIs and building great User Experience 🌃
 - ⚡ Fun fact: I am a huge fan of Functional Programming Paradigm and i love to learn and code with F# ⚡️
 - 🤝 I've also always been excited about sharing what I know with others 💎
 - 📜 Checkout my [portfolio](https://zeshhaan.github.io/portfolio/) or my [digital cv](https://read.cv/zeeshan) to learn more 🍿
