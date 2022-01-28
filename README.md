@@ -4,7 +4,7 @@ I am a programmer who is in love with Functional Programming. I am someone who i
 
 I love F# and Elm and plan to learn and involve more into it. I learn new things by implementing them on side projects and involving in that community. You can find me almost everywhere 😂
 
-During weekends, I can be seen working on freelance projects or helping folks to get into tech or even taking a course or attending an event.
+During weekends, I can be seen working on freelance projects or helping folks to get into tech or even taking a course or sometimes attending an event.
 
 I work at [@foodmarkethub](https://foodmarkethub.com/) where we're building a digital platform in F&B space to connect restaurants to their suppliers to achieve better food costs and consolidate backend operations. If you or your relatives/friends own a restaurant within APAC, definitely recommend checking us out!
 
