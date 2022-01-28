@@ -1,30 +1,16 @@
-### Hi there 👋
+### hello 👋
 
-I work with the awesome [@foodmarkethub](https://foodmarkethub.com/) folks as a Software Engineer to build next generation of F&B business 🍱
+I am a programmer who is in love with Functional Programming. I am someone who is defined by a constant thirst to learn. No matter how much time I spend learning new technologies, and no matter how much I invest in the growth of my knowledge, I can never seem to quench that thirst!
 
-- :computer: I work with this tech: HTML, SCSS, VueJS 💚
-- 🔭 I have an unconditional love for CSS, performant UIs and building great User Experience 🌃
-- ⚡ Fun fact: I am a huge fan of Functional Programming Paradigm and i love to learn and code with F# ⚡️
-- 🤝 I've also always been excited about sharing what I know with others 💎
-- 📜 Checkout my [portfolio](https://zeshhaan.github.io/portfolio/) or my [digital cv](https://read.cv/zeeshan) to learn more 🍿
+I love F# and Elm and plan to learn and involve more into it. I learn new things by implementing them on side projects and involving in that community. You can find me almost everywhere 😂
 
-<!--
-**zeshhaan/zeshhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+During weekends, I can be seen working on freelance projects or helping folks to get into tech or even taking a course or attending an event.
 
-Here are some ideas to get you started:
+I work at [@foodmarkethub](https://foodmarkethub.com/) where we're building a digital platform in F&B space to connect restaurants to their suppliers to achieve better food costs and consolidate backend operations. If you or your relatives/friends own a restaurant within APAC, definitely recommend checking us out!
 
-- 🔭 I’m currently working on ...
-- :globe_with_meridians:
+If you are getting into tech, I recommend following this [getting a gig](https://github.com/cassidoo/getting-a-gig) guide by the awesome [@cassidy](https://twitter.com/cassidoo)  
+If you got the basics of html/css and are looking to level up, [frontendmentor.com](https://www.frontendmentor.io/) is worth checking out!  
+If you are in India and looking for an intensive web development bootcamp, checkout [neogcamp](https://www.neog.camp)  
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 🤟 I enjoy coding in VueJS and am looking for an opportunity where I can get to work on it.
-- 📫 How to reach me: ...
-- 🌱 I’m currently learning [Vue 3](https://github.com/zeshhaan/learning-vue3) and NodeJS 
-- 📜 Checkout my [portfolio](https://read.cv/zeeshan) to learn more
-- ⚡ Fun fact: I am yearning to learn F# code.
-- - 🤔 I’m looking for help with a NextJS project mapping data from a JSON file. Still figuring it out 😇
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+If you wish to contact me about something, please send me a message on [Twitter](https://twitter.com/zeshhaan)  
