@@ -13,4 +13,4 @@ If you got the basics of html/css and are looking to level up, [frontendmentor.c
 If you are in India and looking for an intensive web development bootcamp, checkout [neogcamp](https://www.neog.camp)  
 
 
-If you wish to contact me about something, please send me a message on [Twitter](https://twitter.com/zeshhaan)  
+Checkout my [portfolio site](https://zeshhaan.github.io/portfolio/) for more details.
