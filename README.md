@@ -14,4 +14,4 @@ During weekends, I can be seen working on freelance projects or helping folks to
 - If you are in India and looking for an intensive web development bootcamp, checkout [neogcamp](https://www.neog.camp)  
 
 ---
-Checkout my [portfolio site](https://zeshhaan.github.io/portfolio/) for more details.
+Checkout my [portfolio site](https://zeshhaan.github.io/portfolio/) for a bit more about myself. Ask me about anything, I am happy to help.
