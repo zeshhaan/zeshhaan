@@ -2,11 +2,11 @@
 ---
 I am a programmer who is in love with Functional Programming. I am someone who is defined by a constant thirst to learn. No matter how much time I spend learning new technologies, and no matter how much I invest in the growth of my knowledge, I can never seem to quench that thirst!
 
-I love Elixir and plan to learn and involve more into it. I like to learn new things by implementing them on side projects and getting involved in related communities (You can find almost everywhere 😂)
+I love Elixir and plan to learn and involve more into it. I like to learn new things by implementing them on side projects and getting involved in related communities.
 
 I work at [@foodmarkethub](https://foodmarkethub.com/) where we're building a digital platform in F&B space to connect restaurants to their suppliers to achieve better food costs and consolidate backend operations. If you or your relatives/friends own a restaurant within APAC, definitely recommend checking us out!  
 
-During weekends, I can be seen working on freelance projects or helping folks to get into tech or even taking a course or sometimes attending an event.
+During weekends, I can be seen working on freelance projects or helping folks to get into tech or even taking a course or sometimes attending a virtual event.
 
 --- 
 - If you are getting into tech, I recommend following this [getting a gig](https://github.com/cassidoo/getting-a-gig) guide by the awesome [@cassidy](https://twitter.com/cassidoo)  
