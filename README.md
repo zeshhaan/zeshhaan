@@ -11,7 +11,8 @@ During weekends, I can be seen working on freelance projects or helping folks to
 --- 
 - If you are getting into tech, I recommend following this [getting a gig](https://github.com/cassidoo/getting-a-gig) guide by the awesome [@cassidy](https://twitter.com/cassidoo)  
 - If you got the basics of html/css and are looking to level up, [frontendmentor.com](https://www.frontendmentor.io/) is worth checking out!  
-- If you are in India and looking for an intensive web development bootcamp, checkout [neogcamp](https://www.neog.camp)  
-
+- If you are in India and loves working remotely, checkout [@remoteindian](https://remoteindian.com/) community.
+<!--
 ---
 Checkout my [portfolio site](https://zeshhaan.github.io/portfolio/) for a bit more about myself. Ask me about anything, I am happy to help.
+-->
